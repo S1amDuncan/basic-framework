@@ -16,7 +16,6 @@ public class DeptConsumer80_App
 {
 	public static void main(String[] args)
 	{
-		int a = 1;
 		SpringApplication.run(DeptConsumer80_App.class, args);
 	}
 }
